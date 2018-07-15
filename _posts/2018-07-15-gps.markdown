@@ -21,4 +21,4 @@ image2: /assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg
 - そのような場合は、ちょっとずらしてタップしてみてください。
 
 ## Maps meを利用する
-<img src="/assets/article_images/2018-07-15-gps/2018-07-15-gps_mapsme_android.jpg"/>
+<img src="/minchizu-lp/assets/article_images/2018-07-15-gps/2018-07-15-gps_mapsme_android.jpg"/>

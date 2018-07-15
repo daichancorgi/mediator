@@ -20,4 +20,4 @@ image2: /assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg
 
 
 ## 写真を使って投稿する方法
-<img src="/assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg"/>
+<img src="/minchizu-lp/assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg"/>
