@@ -4,28 +4,31 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "みんなの地図"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   西日本豪雨に被害に遭われた方にお見舞い申し上げます。<br>
+   みんなの地図は、被災された方、また復旧に向けて頑張っておられる方を
+   後方支援するため、突貫で作成したアプリです。<br>
+
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/map_family_smile.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/map_family_smile.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'みんなの地図'
+author: ""
+author_image: "/assets/images/map_family_smile.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://minchizu-e6818.firebaseapp.com/"
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@minnanochizu'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,7 +38,7 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/minnanochizu
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -49,7 +52,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	
     desc:	Fork me on github
     share_url:
     share_title:
