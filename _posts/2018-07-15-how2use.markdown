@@ -4,8 +4,8 @@ title:  "アプリの使い方"
 date:   2018-07-15 10:00
 categories: minchizu
 tags: regular
-image: /assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
-image2: /assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
+image: assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
+image2: assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
 ---
 
 ## 使い方
@@ -14,9 +14,9 @@ image2: /assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
     - ※スマホの位置情報設定、カメラの位置情報設定がオンになっている必要があります。
         - Androidの場合　※機種によって方法は異なります
             - スマホ自体の位置情報設定方法
-            <img src="/assets/article_images/2018-07-15-how2install/2018-07-15-how2use_phone.jpg"/>
+            <img src="assets/article_images/2018-07-15-how2install/2018-07-15-how2use_phone.jpg"/>
             - カメラの位置情報設定
-            <img src="/assets/article_images/2018-07-15-how2install/2018-07-15-how2use_camera.jpg"/>
+            <img src="assets/article_images/2018-07-15-how2install/2018-07-15-how2use_camera.jpg"/>
 - 情報を登録するをタップします
 - 「情報を登録する」画面が表示されます。
 

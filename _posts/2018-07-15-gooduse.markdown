@@ -4,8 +4,8 @@ title:  "位置情報付き写真を使ったオススメ利用方法"
 date:   2018-07-15 9:30
 categories: minchizu
 tags: regular
-image: /assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg
-image2: /assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg
+image: assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg
+image2: assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg
 ---
 みんなの地図では、位置情報付きの写真を投稿することで地図にマーカーを打ちます。
 復旧作業中に色々な情報に出会うと思います。行ってみたら通行止めだった。〜で炊き出しをやるらしいなどなど。
@@ -20,4 +20,4 @@ image2: /assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg
 
 
 ## 写真を使って投稿する方法
-<img src="/assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg"/>
+<img src="assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg"/>

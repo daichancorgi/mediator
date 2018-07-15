@@ -4,8 +4,8 @@ title:  "About みんなの地図"
 date:   2018-07-15 11:00
 categories: minchizu
 tags: featured
-image: /assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
-image2: /assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
+image: assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
+image2: assets/article_images/2018-07-15-about-minchizu/map_family_smile.png
 ---
 #みんなの地図は、被災された方、また復旧に向けて頑張っておられる方をITで後方支援するたのアプリです。
 
