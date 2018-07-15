@@ -11,10 +11,10 @@ image2: /assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg
 写真はないんだけど場所はわかってる、という方のための「位置情報」の確認方法を記しておきます。
 みんなの地図は、位置情報を手入力することもできます。テキストのみでの投稿でもマップにマーカーを打ちたい場合などにご活用ください。
 
-<img src="/assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg"/>
+<img src="/minchizu-lp/assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg"/>
 
 ## Google Mapを利用する
-<img src="/assets/article_images/2018-07-15-gps/2018-07-15-gps_google_map_android.jpg"/>
+<img src="/minchizu-lp/assets/article_images/2018-07-15-gps/2018-07-15-gps_google_map_android.jpg"/>
 
 - 上記はAndroid画面になります。
 - お店などの施設を検索し、タップした場合は位置情報が表示されないかもしれません。
