@@ -25,8 +25,8 @@ author_image: "/assets/images/map_family_smile.png"
 
 paginate:	5
 
-url: ""
-baseurl: "https://daichancorgi.github.io/minchizu-lp/"
+url: "https://daichancorgi.github.io/minchizu-lp"
+baseurl: ""
 #used to display twitter cards
 twitter_handle: '@minnanochizu'
 
