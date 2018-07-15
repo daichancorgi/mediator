@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "位置情報の利用方法"
+date:   2018-07-15 9:00
+categories: minchizu
+tags: regular
+image: /assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg
+image2: /assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg
+---
+みんなの地図では、位置情報付きの写真を投稿することで地図にマーカーを打ちます。
+写真はないんだけど場所はわかってる、という方のための「位置情報」の確認方法を記しておきます。
+みんなの地図は、位置情報を手入力することもできます。テキストのみでの投稿でもマップにマーカーを打ちたい場合などにご活用ください。
+
+<img src="/assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg"/>
+
+## Google Mapを利用する
+<img src="/assets/article_images/2018-07-15-gps/2018-07-15-gps_google_map_android.jpg"/>
+
+- 上記はAndroid画面になります。
+- お店などの施設を検索し、タップした場合は位置情報が表示されないかもしれません。
+- そのような場合は、ちょっとずらしてタップしてみてください。
+
+## Maps meを利用する
+<img src="/assets/article_images/2018-07-15-gps/2018-07-15-gps_mapsme_android.jpg"/>
