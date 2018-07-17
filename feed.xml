@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>みんなの地図</title>
+    <description>西日本豪雨に被害に遭われた方にお見舞い申し上げます。&lt;br&gt; みんなの地図は、被災された方、また復旧に向けて頑張っておられる方を 後方支援するため、突貫で作成したアプリです。&lt;br&gt;
+</description>
+    <link>https://daichancorgi.github.io/minchizu-lp/</link>
+    <atom:link href="https://daichancorgi.github.io/minchizu-lp/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 17 Jul 2018 01:07:50 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2018 01:07:50 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>About みんなの地図</title>
+        <description>&lt;h1 id=&quot;it&quot;&gt;みんなの地図は、被災された方、また復旧に向けて頑張っておられる方をITで後方支援するたのアプリです。&lt;/h1&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;自らがリポータ／助け合い&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;また、自身がレポータとして、通行止め情報などを投稿することもできます。&lt;/li&gt;
+  &lt;li&gt;これらの情報で助かる人がいます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;機能&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Map形式、一覧形式で必要な情報を絞り込んで参照することができます。&lt;/li&gt;
+  &lt;li&gt;自身の見たい地図の範囲を設定することができ、必要な情報だけを見ることができます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;※一部、実装が追いついていないものもあります。&lt;/p&gt;
+
+&lt;p&gt;被災された方々が、早く元の生活に戻れるよう、IT面で支援させていただきます。&lt;/p&gt;
+
+&lt;p&gt;頑張ろう西日本！&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Jul 2018 11:00:00 +0000</pubDate>
+        <link>https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/about-minchizu.html</link>
+        <guid isPermaLink="true">https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/about-minchizu.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>minchizu</category>
+        
+      </item>
+    
+      <item>
+        <title>作者プロフィール</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;作者について&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ソガ ヒトミ&lt;/li&gt;
+  &lt;li&gt;愛媛県松山市在住、南予出身&lt;/li&gt;
+  &lt;li&gt;フリーランスのシステムエンジニア&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;みんなの地図の作成きっかけ&lt;/h2&gt;
+&lt;p&gt;災害発生後、SNSを通して、テレビなど大きく取り上げられてない地方の情報も多く拡散されていました。&lt;br /&gt;
+また、入浴出来る施設や給水所などを情報を、Google マップでまとめ利用しやすいようにされている取り組みも多く見かけました。&lt;br /&gt;&lt;br /&gt;
+こういった流れを見ていて、情報拡散のパワーが、情報集約のパワーに変わったら、被災者の方、復旧作業に当たられる方の後方支援になるのでは無いかと考えました。&lt;br /&gt;
+思い立ったあとは、徹夜しつつ、機能も限定的な状態で2日目にはリリース、現在も機能改善に勤めている状況です。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;私も幼い頃から知っている町が、酷い状況に陥っています。&lt;br /&gt;
+長期的な支援、色んな形の支援が必要だと感じています。&lt;br /&gt;
+長期的な支援および現地以外でも出来る支援の方法として、みんな地図の提供および運営をさせていただこうと思っています。&lt;br /&gt;&lt;br /&gt;
+ITの力によって、皆さんに寄り添えたらと思っています。&lt;br /&gt;
+遠慮せず、当アプリをご活用ください。&lt;br /&gt;&lt;br /&gt;
+また、作者は愛媛在住ですが、他県でもご利用いただけます。&lt;br /&gt;
+災害復旧にご活用いただけると幸いです。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;被災された方々が、早く元の生活に戻れますように。&lt;br /&gt;
+頑張ろう西日本&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 10:40:00 +0000</pubDate>
+        <link>https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/profile-minchizu.html</link>
+        <guid isPermaLink="true">https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/profile-minchizu.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>minchizu</category>
+        
+      </item>
+    
+      <item>
+        <title>アプリのインストール方法</title>
+        <description>&lt;p&gt;このアプリはWebページとして作成してありますが、ホーム画面に追加することで、アプリのように使用することができます。アプリとして使う方法を説明します。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;アプリのインストール方法&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://minchizu-e6818.firebaseapp.com/&quot;&gt;https://minchizu-e6818.firebaseapp.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;上記の&lt;a href=&quot;https://minchizu-e6818.firebaseapp.com/&quot;&gt;リンク&lt;/a&gt;を、スマホで開きます。&lt;/li&gt;
+  &lt;li&gt;開いたら、ホーム画面に追加します。
+    &lt;ul&gt;
+      &lt;li&gt;Androidの場合
+        &lt;ul&gt;
+          &lt;li&gt;画面右上の三点をタップし、ホーム画面に追加を選択してください。
+  &lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-how2install/2018-07-15-how2use_install.jpg&quot; /&gt;&lt;/li&gt;
+          &lt;li&gt;ホームスクリーンにアイコンが追加されました。このアイコンをタップすると、「みんなの地図」がアプリとして起動します。
+  &lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-how2install/2018-07-15-how2use_install_after.jpg&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;iPhoneの場合
+        &lt;ul&gt;
+          &lt;li&gt;画面下の真ん中の送るアイコンをタップしホーム画に追加を選びます。&lt;/li&gt;
+          &lt;li&gt;スマホのホーム画面にアイコンが追加されて、以降はそのアイコンから起動することができます。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 15 Jul 2018 10:30:00 +0000</pubDate>
+        <link>https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/how2install.html</link>
+        <guid isPermaLink="true">https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/how2install.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>minchizu</category>
+        
+      </item>
+    
+      <item>
+        <title>アプリの使い方</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;使い方&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;登録したい箇所の写真をスマホで撮影します
+    &lt;ul&gt;
+      &lt;li&gt;位置情報が写真に埋め込まれていることが前提です。もし設定で解除している場合は位置情報を追加するように設定してください&lt;/li&gt;
+      &lt;li&gt;※スマホの位置情報設定、カメラの位置情報設定がオンになっている必要があります。
+        &lt;ul&gt;
+          &lt;li&gt;Androidの場合　※機種によって方法は異なります
+            &lt;ul&gt;
+              &lt;li&gt;スマホ自体の位置情報設定方法
+  &lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-how2install/2018-07-15-how2use_phone.jpg&quot; /&gt;&lt;/li&gt;
+              &lt;li&gt;カメラの位置情報設定
+  &lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-how2install/2018-07-15-how2use_camera.jpg&quot; /&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;情報を登録するをタップします&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;「情報を登録する」画面が表示されます。&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;1) 登録したい場所を撮影した位置情報つきの写真を３枚まで登録できます
+        &lt;ul&gt;
+          &lt;li&gt;写真の位置情報から地図上の場所を特定します&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2) 登録したい場所の情報を入力します&lt;/li&gt;
+      &lt;li&gt;3) 情報の種類を選択します。現状は以下の通りです。
+        &lt;ul&gt;
+          &lt;li&gt;給水所&lt;/li&gt;
+          &lt;li&gt;入力施設&lt;/li&gt;
+          &lt;li&gt;洗濯&lt;/li&gt;
+          &lt;li&gt;炊き出し&lt;/li&gt;
+          &lt;li&gt;通行止め&lt;/li&gt;
+          &lt;li&gt;公共交通機関情報&lt;/li&gt;
+          &lt;li&gt;ボランティア募集／センター&lt;/li&gt;
+          &lt;li&gt;物資拠点&lt;/li&gt;
+          &lt;li&gt;災害報告&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;4) 投稿します。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「みんなの地図」上に、登録した場所のピンと情報が表示されます。
+    &lt;ul&gt;
+      &lt;li&gt;タップすると内容が見れます（写真は表示されません）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;「一覧」に登録した内容がリスト表示されます
+    &lt;ul&gt;
+      &lt;li&gt;登録した写真はここで見れます&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 15 Jul 2018 10:00:00 +0000</pubDate>
+        <link>https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/how2use.html</link>
+        <guid isPermaLink="true">https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/how2use.html</guid>
+        
+        <category>regular</category>
+        
+        
+        <category>minchizu</category>
+        
+      </item>
+    
+      <item>
+        <title>位置情報付き写真を使ったオススメ利用方法</title>
+        <description>&lt;p&gt;みんなの地図では、位置情報付きの写真を投稿することで地図にマーカーを打ちます。
+復旧作業中に色々な情報に出会うと思います。行ってみたら通行止めだった。〜で炊き出しをやるらしいなどなど。
+地元の方であれば、場所名を伝えれば伝わるかもしれません。ですが、復旧作業には土地に不案内な方も来られることもあります。
+みんなの地図を使って共に頑張ってる人たちに教えてあげませんか？&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;とはいえ、作業中に投稿する暇なんてない&lt;/h2&gt;
+&lt;p&gt;ですよね。なので、位置情報付きの写真を撮っておくことをオススメします。
+作業が終わって、シャワーも浴びれるようなら浴びて、一息着いてから、その日のことを思い出しながら投稿してください。
+投稿された情報は、写真の位置情報を元に地図上にマッピングされます。
+また、一覧でも見ることができます。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;写真を使って投稿する方法&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-gooduse/2018-07-15-gooduse_how2.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 09:30:00 +0000</pubDate>
+        <link>https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/gooduse.html</link>
+        <guid isPermaLink="true">https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/gooduse.html</guid>
+        
+        <category>regular</category>
+        
+        
+        <category>minchizu</category>
+        
+      </item>
+    
+      <item>
+        <title>位置情報の利用方法</title>
+        <description>&lt;p&gt;みんなの地図では、位置情報付きの写真を投稿することで地図にマーカーを打ちます。
+写真はないんだけど場所はわかってる、という方のための「位置情報」の確認方法を記しておきます。
+みんなの地図は、位置情報を手入力することもできます。テキストのみでの投稿でもマップにマーカーを打ちたい場合などにご活用ください。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-gps/2018-07-15-gps-minchizu.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;google-map&quot;&gt;Google Mapを利用する&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-gps/2018-07-15-gps_google_map_android.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;上記はAndroid画面になります。&lt;/li&gt;
+  &lt;li&gt;お店などの施設を検索し、タップした場合は位置情報が表示されないかもしれません。&lt;/li&gt;
+  &lt;li&gt;そのような場合は、ちょっとずらしてタップしてみてください。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;maps-me&quot;&gt;Maps meを利用する&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/minchizu-lp/assets/article_images/2018-07-15-gps/2018-07-15-gps_mapsme_android.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Jul 2018 09:00:00 +0000</pubDate>
+        <link>https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/gps.html</link>
+        <guid isPermaLink="true">https://daichancorgi.github.io/minchizu-lp/minchizu/2018/07/15/gps.html</guid>
+        
+        <category>regular</category>
+        
+        
+        <category>minchizu</category>
+        
+      </item>
+    
+  </channel>
+</rss>
